@@ -30,14 +30,9 @@ DefaultContentLanguage = "id"
   # rssImage = "image/url/here"
   enableEmoji = true
 
-<<<<<<< HEAD
   Comments = true
 
   
-=======
-  # disquss
-  disqusShortname = "https-bizantech-netlify-app"
->>>>>>> c3abd174e850835c51bc2124d1c740de7f2506b1
 
 
 
