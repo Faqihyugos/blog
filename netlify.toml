@@ -34,4 +34,12 @@ HUGO_ENABLEGITINFO = "true"
   [headers.values]
     X-Frame-Options = "DENY"
     X-XSS-Protection = "1; mode=block"
-
+    
+    
+[[redirects]]
+  from = "/*"
+  to = "https://bizantech.netlify.app/"
+  status = 200
+  force = true # COMMENT: ensure that we always redirect
+  headers = {X-From = "Netlify"}
+  signed = "API_SIGNATURE_TOKEN"
