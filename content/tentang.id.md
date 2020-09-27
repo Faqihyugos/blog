@@ -1,6 +1,10 @@
 ---
 title: "Tentang"
+<<<<<<< HEAD
 date: 2020-09-25
+=======
+date: 2020-09-27T00:23:22+07:00
+>>>>>>> 51ea01a212b2d36b9c02746902da62d681d4f52e
 draft: false
 author: "Faqihyugos"
 ---
