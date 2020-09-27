@@ -1,7 +1,7 @@
 ---
 title: "Tentang"
 date: 2020-09-27T00:23:22+07:00
-draft: true
+draft: false
 author: "Faqihyugos"
 ---
 

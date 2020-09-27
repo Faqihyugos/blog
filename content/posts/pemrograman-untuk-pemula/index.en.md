@@ -1,7 +1,7 @@
 ---
 title: "Pemrograman Untuk Pemula"
 date: 2020-09-27T02:10:33+07:00
-draft: true
+draft: false
 cover: "roman.jpg"
 useRelativeCover: true
 coverCaption: "Image Credit to [Roman Synkevych](https://unsplash.com/@synkevych?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) Unsplash"
