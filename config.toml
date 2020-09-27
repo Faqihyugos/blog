@@ -3,6 +3,8 @@ baseURL = "/"
 # theme = "hello-friends"
 paginate = 10
 DefaultContentLanguage = "id"
+# disquss
+  disqusShortname = "bizantech"
 
 [params]
   # dir name of your blog content (default is `content/posts`).
@@ -26,10 +28,11 @@ DefaultContentLanguage = "id"
   #(default is Description or Summary metadata in the front matter)
   rssFullText = true
   # rssImage = "image/url/here"
-  enableEmoji     = true
+  enableEmoji = true
 
-  # disquss
-  disqusShortname = "https-bizantech-netlify-app"
+  Comments = true
+
+  
 
 
 
