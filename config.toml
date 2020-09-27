@@ -29,10 +29,8 @@ DefaultContentLanguage = "id"
   rssFullText = true
   # rssImage = "image/url/here"
   enableEmoji = true
-
-  Comments = true
-
   
+  Comments = true
 
 
 
