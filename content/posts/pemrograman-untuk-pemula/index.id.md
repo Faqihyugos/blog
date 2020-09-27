@@ -1,10 +1,6 @@
 ---
 title: "Pemrograman Untuk Pemula"
-<<<<<<< HEAD
-date: 2020-09-13
-=======
-date: 2020-09-27T02:10:33+07:00
->>>>>>> 51ea01a212b2d36b9c02746902da62d681d4f52e
+date: 2020-09-13T02:10:33+07:00
 draft: false
 cover: "roman.jpg"
 useRelativeCover: true
