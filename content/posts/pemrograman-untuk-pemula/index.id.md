@@ -1,6 +1,6 @@
 ---
 title: "Pemrograman Untuk Pemula"
-date: 2020-09-27T02:10:33+07:00
+date: 2020-09-13
 draft: false
 cover: "roman.jpg"
 useRelativeCover: true
@@ -10,6 +10,8 @@ tags: [
   "Pemrograman",
   "Semangat"
 ]
+description: "Sering melihat di media sosial yang telah menanyakan bagaimana cara menjadi seorang programer untuk semua platform dan dilakukan secara otodidak.
+Hal yang harus dilakukan untuk belajar pemrograman yaitu menguasai bahasa pemrograman. Tentu hal itu sangat menjadi sebuah kebingungan ketika awal belajar coding dasar."
 ---
 
 # Cara belajar Bahasa Pemrograman dasar untuk Pemula
@@ -69,6 +71,6 @@ Mengatur jadwal pelajaran sangat penting agar konsisten belajar dapat di lakukan
 Maka dari itu buatlah jadwal sendiri. Sebagai contoh mengatur dalam satu hari harus belajar pemrograman minimal 4 jam. Pilihlah waktu yang paling cocok dan nyaman. Jadikan sebuah belajar pemrograman menjadi sebuah kewajiban, dengan begitu konsistensi belajar pemrograman website akan berhasil.
 
 #### Kesimpulan
-Belajar bahasa pemrograman untuk pemula dapat di lakukan dengan mudah ketika metode belajar itu sesuai dengan pribadi seseorang. Konsistensi hal yang paling penting agar belajar coding di lakukan dengan cepat dan menghasilkan sebuah karya.
+Belajar bahasa pemrograman untuk pemula dapat di lakukan dengan mudah ketika metode belajar itu sesuai dengan pribadi seseorang. Konsistensi hal yang paling penting agar belajar coding di lakukan dengan cepat dan menghasilkan sebuah karya...
 
-Selain itu untuk belajar bahasa program komputer harus mencoba banyak studi kasus yang terus meningkat
+Selain itu untuk belajar bahasa program komputer harus mencoba banyak studi kasus yang terus meningkat ...

@@ -20,7 +20,7 @@ DefaultContentLanguage = "id"
 
   # Show table of contents at the top of your posts (defaults to false)
   # Alternatively, add this param to post front matter for specific posts
- toc = true
+  toc = true
 
   # Show full page content in RSS feed items
   #(default is Description or Summary metadata in the front matter)
@@ -28,13 +28,18 @@ DefaultContentLanguage = "id"
   # rssImage = "image/url/here"
   enableEmoji     = true
 
+  # disquss
+  disqusShortname = "faqihyugos"
+  Comments = true
+
+
 
 [languages]
   [languages.en]
     title = "Bizantech"
     subtitle = "Tempat tulisan iseng"
     keywords = "Programming, Blog"
-    copyright = ""
+    copyright = "copyright@2020 bizantech"
     menuMore = "Show more"
     writtenBy = "Written by"
     readMore = "Read more"
@@ -42,8 +47,8 @@ DefaultContentLanguage = "id"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
     # minuteReadingTime = "min read"
-    dateFormatSingle = "02-01-2006"
-    dateFormatList = "02-01-2006"
+    dateFormatSingle = "2006-01-02"
+    dateFormatList = "2006-01-02"
     # leave empty to disable, enter display text to enable
     # lastModDisplay = ""
     languageName = "English"
@@ -70,7 +75,7 @@ DefaultContentLanguage = "id"
     title = "Bizantech"
     subtitle = "Tempat tulisan iseng"
     keywords = "Programming, Blog"
-    copyright = ""
+    copyright = "copyright@2020 bizantech"
     menuMore = "Lainnya"
     writtenBy = "Ditulis oleh"
     readMore = "Baca selanjutnya"

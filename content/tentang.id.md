@@ -1,6 +1,6 @@
 ---
 title: "Tentang"
-date: 2020-09-27T00:23:22+07:00
+date: 2020-09-25
 draft: false
 author: "Faqihyugos"
 ---
