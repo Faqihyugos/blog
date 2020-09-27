@@ -29,7 +29,7 @@ DefaultContentLanguage = "id"
   enableEmoji     = true
 
   # disquss
-  disqusShortname = "faqih_yugo_susilo"
+  disqusShortname = "https-bizantech-netlify-app"
 
 
 

@@ -29,15 +29,3 @@ HUGO_VERSION = "0.75.1"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
-[[redirects]]
-    from = "/*"
-    to = "/index.js"
-    status = 200
-
-[[headers]]
-    for = "/*"
-
-    [headers.values]
-    X-Frame-Options = "Deny"
-    X-XSS-Protection = "1; mode=block"
-
