@@ -1,5 +1,5 @@
 ---
-title: "Pemrograman Untuk Pemula"
+title: "Programming For Beginners"
 date: 2020-09-14T02:10:33+07:00
 draft: false
 cover: "roman.jpg"

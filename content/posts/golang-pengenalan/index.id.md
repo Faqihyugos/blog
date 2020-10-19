@@ -72,4 +72,4 @@ Jadi, tidak perlu khawatir ketika ada masalah ketika belajar pemrograman GO, and
 
 **5. Concurrency**
 
-Concurrency merupakan sebuah mini thread, dimana kita dapat menjalankan banyak method / fungsi dalam waktu yang bersamaan. Sehingga tidak perlu menunggu waktu lama ketika menjalankan lebih dari satu suatu proses
+Concurrency merupakan sebuah mini thread, dimana kita dapat menjalankan banyak method / fungsi dalam waktu yang bersamaan. Sehingga tidak perlu menunggu waktu lama ketika menjalankan lebih dari satu suatu proses.
