@@ -30,36 +30,12 @@
         {{ end }}
       {{ end }}
     {{ end }}
-
-    {{ if .IsTranslated }}
-      {{ range .Translations }}
-        <li><a href="{{ .Permalink }}">{{ .Site.Language.LanguageName }}</a></li>
-      {{ end }}
-    {{ else }}
-      {{ if eq .Site.Language.Lang "en" }}
-        <li><a href="/en">English</a></li>
-      {{ else }}
-          <li><a href="/">Bahasa Indonesia</a></li>
-      {{ end }}
-    {{ end }}
   </ul>
 
   <ul class="menu__inner menu__inner--mobile">
     {{ range $.Site.Menus.main }}
       {{ if not .HasChildren }}
         <li><a href="{{ .URL }}">{{ .Name }}</a></li>
-      {{ end }}
-    {{ end }}
-
-    {{ if .IsTranslated }}
-      {{ range .Translations }}
-        <li><a href="{{ .Permalink }}">{{ .Site.Language.LanguageName }}</a></li>
-      {{ end }}
-    {{ else }}
-      {{ if eq .Site.Language.Lang "en" }}
-        <li><a href="/en">English</a></li>
-      {{ else }}
-          <li><a href="/">Bahasa Indonesia</a></li>
       {{ end }}
     {{ end }}
   </ul>

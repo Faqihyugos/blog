@@ -1,9 +1,8 @@
 ---
 title: "Pengenalan Sistem Terdistribusi"
-date: 2020-10-19T13:48:07+07:00
+date: 2021-06-07T12:26:59+07:00
 draft: false
-cover: "network.jpg"
-useRelativeCover: true
+cover: "img/network.jpg"
 coverCaption: "Source : Gambar oleh [Bethany Drouin](https://pixabay.com/id/users/bsdrouin-5016447/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637) dari [Pixabay](https://pixabay.com/id/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637)"
 description: "Sistem Terdistribusi adalah Sekumpulan komputer otonom yang terhubung ke suatu jaringan, dimana bagi pengguna sistem terlihat sebagai satu komputer."
 tags: [
@@ -13,6 +12,7 @@ tags: [
 ]
 disqus_title: "Sistem-terdistribusi"
 ---
+
 # Pengenalan Sistem Terdistribusi
 
 ## 1. Mengapa Sistem terdistribusi ? 

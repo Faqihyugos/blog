@@ -1,9 +1,8 @@
 ---
-title: "Belajar Golang #1"
-date: 2020-09-20
+title: "Bahasa Golang"
+date: 2021-04-20T12:10:01+07:00
 draft: false
-cover: "golang.jpg"
-useRelativeCover: true
+cover: "img/golang.jpg"
 coverCaption: "Source: Stackify Website"
 description: "**Berkenalan dengan Bahasa Golang, Pengertian Go Lang** – Halo semuanya selamat datang di website saya belajar Golang Bahasa Indonesia. Mulai saat ini saya akan mencoba konsisten membahas seri belajar pemrograman **Golang dari dasar**, membuat **microservice** sampai **membuat project golang**."
 tags: [

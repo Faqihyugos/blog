@@ -1,7 +1,7 @@
 baseURL = "/"
-# languageCode = "en-us"
-# theme = "hello-friends"
-paginate = 10
+languageCode = "id-ID"
+# theme = "hello-friend"
+paginate = 5
 DefaultContentLanguage = "id"
 # disquss
   disqusShortname = "bizantech"
@@ -22,7 +22,7 @@ DefaultContentLanguage = "id"
 
   # Show table of contents at the top of your posts (defaults to false)
   # Alternatively, add this param to post front matter for specific posts
-  toc = true
+  toc = false
 
   # Show full page content in RSS feed items
   #(default is Description or Summary metadata in the front matter)
@@ -35,47 +35,11 @@ DefaultContentLanguage = "id"
 
 
 [languages]
-  [languages.en]
-    title = "Bizantech"
-    subtitle = "Tempat tulisan iseng"
-    keywords = "Programming, Blog"
-    copyright = "copyright@2020 bizantech"
-    menuMore = "Show more"
-    writtenBy = "Written by"
-    readMore = "Read more"
-    readOtherPosts = "Read other posts"
-    newerPosts = "Newer posts"
-    olderPosts = "Older posts"
-    # minuteReadingTime = "min read"
-    dateFormatSingle = "2006-01-02"
-    dateFormatList = "2006-01-02"
-    # leave empty to disable, enter display text to enable
-    # lastModDisplay = ""
-    languageName = "English"
-
-    [languages.en.params.logo]
-      logoText = "Bizantech"
-      logoHomeLink = "/en"
-    # or
-    #
-    # path = "/img/your-example-logo.svg"
-    # alt = "Your example logo alt text"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/en/about"
-      [[languages.en.menu.main]]
-        identifier = "archive"
-        name = "Archive"
-        url = "/en/archive"
-
   [languages.id]
     title = "Bizantech"
     subtitle = "Tempat tulisan iseng"
     keywords = "Programming, Blog"
-    copyright = "copyright@2020 bizantech"
+    copyright = ""
     menuMore = "Lainnya"
     writtenBy = "Ditulis oleh"
     readMore = "Baca selanjutnya"
@@ -87,7 +51,6 @@ DefaultContentLanguage = "id"
     dateFormatList = "02-01-2006"
     # leave empty to disable, enter display text to enable
     # lastModDisplay = ""
-    languageName = "Bahasa Indonesia"
     TableOfContent = "Daftar isi"
 
     [languages.id.params.logo]

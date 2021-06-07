@@ -1,9 +1,8 @@
 ---
-title: "Karakteristik Sistem Terdistribusi"
-date: 2020-10-19T14:48:07+07:00
+title: "Karateristik Sistem Terdistribusi"
+date: 2021-06-07T12:10:01+07:00
 draft: false
-cover: "network.jpg"
-useRelativeCover: true
+cover: "img/network.jpg"
 coverCaption: "Source : Gambar oleh [Bethany Drouin](https://pixabay.com/id/users/bsdrouin-5016447/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637) dari [Pixabay](https://pixabay.com/id/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637)"
 description: "Sistem Terdistribusi adalah Sekumpulan komputer otonom yang terhubung ke suatu jaringan, dimana bagi pengguna sistem terlihat sebagai satu komputer. Ada beberapa hal yang harus diperhatikan dalam membangun sistem terdistribusi."
 tags: [
@@ -13,6 +12,7 @@ tags: [
 ]
 disqus_title: "Sistem-terdistribusi"
 ---
+
 
 ## Ada beberapa hal yang harus diperhatikan dalam membangun sistem terdistribusi, yaitu :
 
