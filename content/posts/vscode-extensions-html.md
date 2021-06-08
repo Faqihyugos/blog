@@ -12,7 +12,9 @@ disqus_title: "vscode-extensions"
 
 Mari kita lihat beberapa ekstensi untuk Kode VS yang membuat penulisan dan pengeditan HTML lebih baik. Anda mungkin tidak menyukai semuanya. Mungkin beberapa dari mereka tidak menarik bagi Anda, memecahkan masalah yang tidak Anda miliki, atau merasa lebih berantakan daripada yang Anda butuhkan. Tidak apa-apa. Ini hanya segelintir yang saya coba dan sukai sampai tingkat tertentu.
 
-Saya akan mulai dengan Emmet di sini, meskipun secara teknis ini bukan ekstensi untuk Kode VS. Itu sudah terpasang. Anda harus mengetahuinya karena ini sangat berguna. Itu melakukan "HTML Expansions" seperti ini, yang saya gunakan hampir setiap hari dalam hidup saya:
+{{< youtube -1CsHnIuqcI >}}
+
+Saya akan mulai dengan Emmet di sini, meskipun secara teknis ini bukan ekstensi untuk Kode VS. Itu sudah terpasang. Anda harus mengetahuinya karena ini sangat berguna. Itu melakukan "HTML Expansions" seperti ini, yang saya gunakan hampir setiap hari dalam hidup saya.
 
 ## [HTML End Tag Labels](https://marketplace.visualstudio.com/items?itemName=anteprimorac.html-end-tag-labels)
 
