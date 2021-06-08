@@ -10,7 +10,7 @@ tags: [
   "Golang 1",
   "Golang"
 ]
-disqus_title: "golang_satu"
+disqus_title: "golang-satu"
 ---
 
 # Belajar Golang #1 : Berkenalan dengan Bahasa Golang

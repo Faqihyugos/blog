@@ -2,6 +2,12 @@
 title: "Vscode Extensions Html"
 date: 2021-06-08T12:48:16+07:00
 draft: false
+tags: [
+  "Vscode Extensions",
+  "Vscode",
+  "HTML"
+]
+disqus_title: "vscode-extensions"
 ---
 
 Mari kita lihat beberapa ekstensi untuk Kode VS yang membuat penulisan dan pengeditan HTML lebih baik. Anda mungkin tidak menyukai semuanya. Mungkin beberapa dari mereka tidak menarik bagi Anda, memecahkan masalah yang tidak Anda miliki, atau merasa lebih berantakan daripada yang Anda butuhkan. Tidak apa-apa. Ini hanya segelintir yang saya coba dan sukai sampai tingkat tertentu.

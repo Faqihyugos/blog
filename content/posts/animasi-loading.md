@@ -9,7 +9,7 @@ tags: [
   "CSS",
   "HTML"
 ]
-disqus_title: "Animasi Loading"
+disqus_title: "Animasi-Loading"
 ---
 
 # Membuat animasi loading dengan SVG dan CSS

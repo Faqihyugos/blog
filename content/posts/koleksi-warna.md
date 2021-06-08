@@ -7,7 +7,7 @@ description: "Mencari warna gradien untuk desain grafis, web, atau UI Kamu? Warn
 tags: [
   "CSS"
 ]
-disqus_title: "Koleksi Warna gradien"
+disqus_title: "Koleksi-gradien"
 ---
 Mencari **[warna gradien](https://hexcolor.co/gradient-colors)** untuk desain grafis, web, atau UI Kamu? Warna gradien pilihan paling keren untuk hal-hal super menakjubkan Kamu. Koleksi gratis 200 gradien linier yang dapat Kamu gunakan sebagai latar belakang konten di bagian mana pun dari situs web Kamu. Kamu dapat mendownload versi .png dari setiap gradien dan menyalin kode CSS3-nya. Sketsa dan paket Photoshop juga tersedia.
 
