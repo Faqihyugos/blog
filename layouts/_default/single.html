@@ -53,6 +53,7 @@
     {{ end }}
 
     <div class="post-content">
+      {{ partial "share-buttons.html" . }}
       {{ if or .Params.Toc $.Site.Params.Toc }}
           {{ if ne .Params.Toc false}}
             <h2>{{ $.Site.Params.TableOfContent | default "Table of Contents" }}</h2>
