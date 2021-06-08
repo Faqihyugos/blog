@@ -1,6 +1,6 @@
 ---
 title: "Bahasa Golang"
-date: 2021-04-20T12:10:01+07:00
+date: 2020-09-20T12:10:01+07:00
 draft: false
 cover: "img/golang.jpg"
 coverCaption: "Source: Stackify Website"
